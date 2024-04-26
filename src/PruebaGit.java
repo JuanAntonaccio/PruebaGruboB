@@ -11,5 +11,7 @@ public class PruebaGit {
         }
         listaNueva.add("pato");
         System.out.println(listaNueva);
+
+        System.out.println("Esta es una nueva linea");
     }
 }
